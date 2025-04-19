@@ -1,0 +1,6 @@
+- ##### React
+- ##### TypeScript
+- ##### Redux
+- ##### Tailwind
+- ##### BaaS
+- ##### FSD
