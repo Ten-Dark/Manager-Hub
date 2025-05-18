@@ -6,6 +6,10 @@ kanban-plugin: board
 
 ## BackLog
 
+
+
+## In Progress
+
 - [ ] Registration
 	- Login - unique
 	- Password
@@ -15,10 +19,6 @@ kanban-plugin: board
 - [ ] Authorization
 	- Login
 	- Password
-
-
-## In Progress
-
 
 
 ## Done
