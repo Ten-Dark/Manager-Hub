@@ -6,17 +6,27 @@ kanban-plugin: board
 
 ## BackLog
 
+- [ ] Персональные данные
+	- [ ] Age
+	- [ ] Имя
+	- [ ] Фамилия
+	- [ ] Адрес
+	- [ ] Телефон
+	- [ ] Подтверждение почты
+- [ ] Login by
+	- [ ] Google
+	- [ ] GitHub
+	- [ ] VK
 
 
 ## In Progress
 
-- [ ] Registration
+- [ ] Регистрация
 	- Login - unique
 	- Password
 	- Email - unique
 	- Avatar
-	- Age
-- [ ] Authorization
+- [ ] Авторизация
 	- Login
 	- Password
 
